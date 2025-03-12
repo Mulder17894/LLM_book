@@ -1,0 +1,5 @@
+[project]
+name = "llm-book"
+version = "0.1.0"
+description = "非常详细的大模型LLM的学习教程与笔记"
+requires-python = ">=3.10"
