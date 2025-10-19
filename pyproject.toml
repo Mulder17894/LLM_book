@@ -5,3 +5,4 @@ description = "非常详细的大模型LLM的学习教程与笔记"
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # match the style used in the rest of the module
+# handle the edge case from the last release
